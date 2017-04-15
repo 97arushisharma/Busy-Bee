@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "401778594732",
+    "firebase_url": "https://first-firebase-933d0.firebaseio.com",
+    "project_id": "first-firebase-933d0",
+    "storage_bucket": "first-firebase-933d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401778594732:android:7122de91e7a8cf42",
+        "android_client_info": {
+          "package_name": "com.example.arushi.hackinnorth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401778594732-pc2cid8cq8vd1q3dhdp28sgmgfsest9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arushi.hackinnorth",
+            "certificate_hash": "dd599b4f306387864d3b02081d59058f20e90328"
+          }
+        },
+        {
+          "client_id": "401778594732-8jouits984t5cpv8fc1sj5bf9m27ujer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaVV7F7ZlgwuJCmwbooRYFI65PbUeHgYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401778594732-8jouits984t5cpv8fc1sj5bf9m27ujer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

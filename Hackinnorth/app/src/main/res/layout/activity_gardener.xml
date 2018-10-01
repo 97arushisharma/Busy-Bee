@@ -11,7 +11,7 @@
         android:text="GARDENER"
         android:textSize="40dp"
         android:background="#880E4F"
-        android:textColor="#ffffff"
+        android:textColor="#fffff0"
         android:textAlignment="center"
         android:padding="10dp"
         android:id="@+id/tay"
